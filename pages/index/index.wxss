@@ -1,0 +1,5 @@
+/* pages/index/index.wxss */
+#myCanvas {
+    height: 100%;
+    width: 100%;
+}
