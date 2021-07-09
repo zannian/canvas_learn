@@ -1,0 +1,5 @@
+/* pages/handleArea/handleArea1.wxss */
+#myCanvas {
+    height: 100%;
+    width: 100%;
+}

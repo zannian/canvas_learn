@@ -1,0 +1,2 @@
+<!--pages/index/index.wxml-->
+<canvas id="myCanvas" type="2d" bindtap="tap"></canvas>

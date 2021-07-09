@@ -1,0 +1,2 @@
+<!--pages/round/round.wxml-->
+<canvas id="myCanvas" type="2d" bindtap="tap"></canvas>

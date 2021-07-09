@@ -1,0 +1,42 @@
+{
+    "setting": {},
+    "condition": {
+        "plugin": {
+            "list": []
+        },
+        "game": {
+            "list": []
+        },
+        "gamePlugin": {
+            "list": []
+        },
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "pages/pxOperation/pxOperation",
+                    "pathName": "pages/pxOperation/pxOperation",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/round/round",
+                    "pathName": "pages/round/round",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/handleArea/handleArea1",
+                    "pathName": "pages/handleArea/handleArea1",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/physical/physical",
+                    "pathName": "pages/physical/physical",
+                    "query": "",
+                    "scene": null
+                }
+            ]
+        }
+    }
+}
